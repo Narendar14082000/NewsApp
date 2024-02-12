@@ -45,10 +45,13 @@ npm start
 
 ## Screenshots
 
-![screenshot1](screenshot-1.png) ![screenshot2](screenshot2.png) ![screenshot3](Screenshot3.png) ![screenshot4](screenshot4.png)
+![screenshot1](screenshot-1.png)
 
+![screenshot2](screenshot-2.png)
 
+![screenshot3](Screenshot-3.png)
 
+![screenshot4](screenshot-4.png)
 
 
 
