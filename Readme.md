@@ -43,6 +43,15 @@ npm start
 
 5. Follow the instructions in the terminal or Expo DevTools to launch the app on a simulator/emulator or scan the QR code using the Expo Go app on your mobile device.
 
+## Screenshots
+
+![screenshot1](screenshot-1.png)
+
+
+![screenshot2](screenshot2.png)
+
+![screenshot3](screenshot3.png)
+![screenshot4](screenshot4.png)
 
 ## Technologies Used
 
