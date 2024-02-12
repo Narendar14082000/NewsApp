@@ -58,4 +58,3 @@ npm start
 
 ---
 
-Feel free to modify this template to suit your project's specific details and requirements. Good luck with your NewsProfileApp! If you have any further questions or need assistance, please don't hesitate to ask.
