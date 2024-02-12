@@ -20,7 +20,7 @@ The NewsProfileApp allows users to view their personal information, posted artic
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/NewsProfileApp.git
+git clone https://github.com/Narendar14082000/NewsApp.git
 ```
 
 2. Navigate to the project directory:
@@ -53,11 +53,8 @@ npm start
 
 ## Contributors
 
-- [Paindla Narendar Reddy](https://github.com/yourusername)
+- [Paindla Narendar Reddy](https://github.com/Narendar14082000)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
